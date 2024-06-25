@@ -1,2 +1,2 @@
-# Cognos-Dashboard
-# IBM Data Analyst Capstone Project. Creating dashboards with IBM Cognos Analytics.
+# IBM Capstone Project
+# Analyzing various data to identify trends amongst the emerging technologies in order to remain competitive.
